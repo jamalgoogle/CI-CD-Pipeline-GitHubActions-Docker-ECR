@@ -129,11 +129,9 @@ Once the script has completed, you will need to add DNS records to point your do
 
 2. Next to your domain Add `CNAME Record`
 
-   <img src=imgs/cpanel-2.png>
 
 3. In the `NAME` add `YOUR_APP_NAME.YOUR_DOMAIN` and add the `INGRESS_URL` in `CNAME`
 
-   <img src=imgs/cpanel-3.png>
 
 **Repeat the same steps for the rest of the services**
 
